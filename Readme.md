@@ -1,0 +1,1 @@
+MVC that works with a model class that can be manipulated by Fragments who can start Activities by passing intents. The user can add, edit, and change the dates of items on the list, using calendar dialog. The fragments can read and write data to the model class by using the SQLite helper and Cursor class.
